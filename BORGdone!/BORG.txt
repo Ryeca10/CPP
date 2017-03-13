@@ -1,0 +1,35 @@
+COM HERE IS OUR FIRST BORG PROGRAM	
+COM WHAT A ROBUST LANGUAGE IT IS	
+START	
+   VAR INTVAR = 300
+   PRINT INTVAR % 3
+   VAR VAR1 = 12	
+   PRINT VAR1	
+   PRINT VAR1 ^ 2
+   PRINT COCO
+   PRINT VAR1 + 2
+   START
+       VAR HIDDEN = 7
+   FINISH
+   PRINT HIDDEN
+FINISH	
+
+
+======= OUTPUT 2 ==========
+
+INTVAR % 3 is 0
+VAR1     is 12
+VAR1 ^ 2 is 144
+COCO is Undefined. 
+VAR1 + 2 is 146
+HIDDEN is Undefined. 
+
+RUN SUCCESSFUL (total time: 88ms)
+
+
+
+
+
+
+
+
